@@ -30,16 +30,8 @@
 
    - AnswerRNN2.py: evolution of AnswerRNN, borrows from Feng et Al., 2015 and Tan et al, 2016 similarity-based models.
 
-   > Theano==0.9.0
-   > nltk==3.2.4
-   > numpy==1.13.1
-   > matplotlib==2.0.2
-   > Keras==2.0.5
-   > h5py==2.7.0
-   > scikit-learn==0.19.0
-
-3.  Deep Keyphrase Generation based on ACL17 CopyNet [\[link\]](https://github.com/killa1218/CopyRNN-Keyword-Extraction)
+3. Deep Keyphrase Generation based on ACL17 CopyNet [\[link\]](https://github.com/killa1218/CopyRNN-Keyword-Extraction)
 
    解决了identify keyphrases that do not appear in the text, nor capture the real semantic meaning behind the text的问题，如果代码可跑的话将会非常有东西。
 
-
+   
