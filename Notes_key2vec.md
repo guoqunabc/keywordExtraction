@@ -1,10 +1,8 @@
-> 这篇文章在欧学长提供的资料中，是一种无监督学习的方法，收录在NAACL。
+> 这篇文章在欧学长提供的资料中，是一种无监督学习的方法，收录在NAACL。[article redirection](https://github.com/keel-keywordextraction-entitylinking/keywordExtraction/blob/master/pre-reading/Key2Vec.pdf)
 > 
 > In the paper, we represent candidate keyphrases extracted from a scientific article by domain-specific phrase embeddings and rank them using a theme-weighted PageRank algorithm.
 > 
 > First preliminary attempt to use multi-word phrase embeddings for constructing thematic representation of a given document and to assign thematic weights to phrases have not been used for ranked keyphrase extraction.
-
-
 
 # Method
 
@@ -58,14 +56,10 @@ The phrase embedding model is then used to get the vector representation ($\hat{
 
 To be continued......
 
-# State-of-the-Art Performance
+# State-of-the-Art Performance
 
 ![data](Material_For_Notes/5.png)
-
-
 
 # Case Study
 
 ![data](Material_For_Notes/6.png)
-
-
